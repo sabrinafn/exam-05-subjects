@@ -21,17 +21,15 @@ Conceitos de C++ como classes, operadores, overloading, containers e aritmética
 
 <h2>Nível 02 — C</h2>
 
-<p>Este nível traz dois exercícios longos e em <strong>C</strong>.</p>
+<p>Este nível traz um exercício em <strong>C</strong>.</p>
 
 <h3>Exercícios:</h3>
 <ul>
-  <li><code>bsq</code> (Biggest Square): Encontrar o maior quadrado possível em um mapa representado por caracteres.</li>
   <li><code>game_of_life</code>: Simulação do jogo de evolução de células.</li>
 </ul>
 
 <blockquote>
 Para o Game of Life, foque em entender a implementação das regras de evolução do jogo.
-Para o BSQ, concentre-se em aprender um algoritmo para identificar o maior quadrado na matriz.
 </blockquote>
 
 <hr />
