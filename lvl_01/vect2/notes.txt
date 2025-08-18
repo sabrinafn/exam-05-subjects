@@ -1,0 +1,24 @@
+Correcao da main.cpp do exame:
+
+v4: {1, 2}
+
+Comentario de output esperado na main.cpp:
+
+v4++ : {2, 3}    (v4 printa {1, 2}, incrementa e depois se torna {2, 3})
+++v4 : {3, 4}    (V4 incrementa {2,3}, se torna {3,4} e printa {3,4})
+v4-- : {2, 3}    (v4 printa {3, 4}, decrementa e depois se torna  {2, 3})
+--v4 : {1, 2}    (V4 decrementa {2,3}, se torna {1,2} e printa {1,2})
+
+O output correto seria:
+
+v4++ : {1, 2}
+++v4 : {3, 4}
+v4-- : {3, 4}
+--v4 : {1, 2}
+
+Explicacao:
+
+v4++ : {1, 2}    (v4 printa {1, 2}, incrementa e depois se torna {2, 3})
+++v4 : {3, 4}    (V4 incrementa {2,3}, se torna {3,4} e printa {3,4})
+v4-- : {3, 4}    (v4 printa {3, 4}, decrementa e depois se torna  {2, 3})
+--v4 : {1, 2}    (V4 decrementa {2,3}, se torna {1,2} e printa {1,2})

@@ -17,6 +17,7 @@ int main(void) {
     std::cout << "++v4: " << ++v4 << std::endl; // 3, 4
     std::cout << "v4--: " << v4-- << std::endl; // 2, 3
     std::cout << "--v4: " << --v4 << std::endl; // 1, 2
+    // ver notes.txt
     
     v2 += v3; // 2,4
     std::cout << "v2: " << v2 << std::endl;

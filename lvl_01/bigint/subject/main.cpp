@@ -5,7 +5,6 @@ int	main(void)
 	const bigint	a(42);
 	bigint			b(21), c, d(1337), e(d);
 	
-	//All are in base10
 	std::cout << "a: " << a << std::endl;
 	std::cout << "b: " << b << std::endl;
 	std::cout << "c: " << c << std::endl;

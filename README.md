@@ -37,9 +37,13 @@ Para o Game of Life, foque em entender a implementação das regras de evoluçã
 <h2>Informações Extras</h2>
 <ul>
   <li>Todos os exercícios do nível 1 acompanham uma <code>main()</code> de testes.</li>
-  <li>Este repositório contém apenas os enunciados dos exercícios, sem soluções implementadas.</li>
   <li>Se você for aprovado no Nível 01 uma vez, <strong>não é necessário refazer o Nível 01</strong> quando tentar a prova novamente.</li>
+  <li>Eu escrevi estes códigos para praticar, mas não sei se estão corretos. Os únicos que realmente caíram para mim na prova e passei foram <code>vect2</code> e <code>game_of_life</code>.</li>
 </ul>
 
 <hr />
+
+<h2>Estrutura dos Arquivos</h2>
+
+<p>Os diretórios <code>src</code> têm o que implementei e os diretórios <code>subject</code> contêm os subjects, mains e outros arquivos que já vêm na prova.</p>
 
