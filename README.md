@@ -21,11 +21,12 @@ Conceitos de C++ como classes, operadores, overloading, containers e aritmética
 
 <h2>Nível 02 — C</h2>
 
-<p>Este nível traz um exercício em <strong>C</strong>.</p>
+<p>Este nível traz dois exercícios em <strong>C</strong>.</p>
 
 <h3>Exercícios:</h3>
 <ul>
   <li><code>game_of_life</code>: Simulação do jogo de evolução de células.</li>
+  <li><code>BSQ</code>: Encontrar o maior quadrado em um mapa.</li>
 </ul>
 
 <blockquote>
